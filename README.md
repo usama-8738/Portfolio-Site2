@@ -1,2 +1,2 @@
 # Portfolio-Site2
-Portfolio Site 2 for CV
+Portfolio Site 2
